@@ -225,10 +225,10 @@ Connection: close
 
 ## Reference Documentations
 
-- [QingStor Documentation](https://docs.qingcloud.com/qingstor/index.html)
-- [QingStor Guide](https://docs.qingcloud.com/qingstor/guide/index.html)
-- [QingStor APIs](https://docs.qingcloud.com/qingstor/api/index.html)
-- [QingStor Signature](https://docs.qingcloud.com/qingstor/api/common/signature.html)
+- [QingStor Documentation](https://docsv4.qingcloud.com/user_guide/storage/object_storage/intro/product/)
+- [QingStor Guide](https://docsv4.qingcloud.com/user_guide/storage/object_storage/l)
+- [QingStor APIs](https://docsv4.qingcloud.com/user_guide/storage/object_storage/api/)
+- [QingStor Signature](https://docsv4.qingcloud.com/user_guide/storage/object_storage/api/common/signature.html)
 
 ## LICENSE
 
